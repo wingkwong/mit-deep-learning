@@ -1,2 +1,1 @@
-# mit-deep-learning
-Collections of resources from Introduction to Deep Learning By MIT
+This repository contains the papers and slides for MIT 6.S191: Introduction to Deep Learning! All lecture slides and videos are available on the course website [here](http://introtodeeplearning.com/).
